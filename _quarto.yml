@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs  # GitHub Pages will read from this folder
+
+website:
+  title: "Vidisha Chowdhury"
+  navbar:
+    right:
+        - text: "Home"
+          href: index.qmd
+        - text: "About"
+          href: about.qmd
+        - text: "CV"
+          href: cv.qmd
+        - text: "Portfolio"
+          href: portfolio.qmd
+        - text: "Blog"
+          href: blog.qmd
+        - icon: github
+          href: https://github.com/janedoe
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,15 @@
+# Ignore IDE and OS files
+.Rproj.user
+*.Rproj
+*.DS_Store
+
+# Python/R environment folders
+__pycache__/
+.env/
+.venv/
+.Rhistory
+.RData
+
+# Ignore Quarto cache (if any)
+.quarto/
+_site/
