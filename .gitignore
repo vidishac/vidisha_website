@@ -13,3 +13,4 @@ __pycache__/
 # Ignore Quarto cache (if any)
 .quarto/
 _site/
+/.quarto/

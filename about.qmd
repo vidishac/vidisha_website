@@ -2,4 +2,13 @@
 title: "About"
 ---
 
-About this site
+I am a multidisciplinary researcher specializing in data science, economics and public policy. 
+I currently work as a data analyst for the Penn Wharton Budget Model (PWBM) at the Wharton School of
+the University of Pennsylvania. At PWBM, I contribute to the organization’s work on simulating the 
+impacts of various policy measures on the United States (U.S.) economy through microsimulation models. 
+In particular, my work focuses on the applications of machine learning in economic modelling and 
+policy research. 
+
+Prior to this, I completed a master's degree in Data Analytics and Public Policy from Carnegie Mellon
+University, a master's in economics from the Delhi School of Economics and a bachelor's degree in economics 
+from the University of Delhi.
